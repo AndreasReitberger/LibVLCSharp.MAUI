@@ -3,6 +3,7 @@ using LibVLCSharp.MAUI.Shared.Resources;
 using LibVLCSharp.Shared;
 using LibVLCSharp.Shared.MediaPlayerElement;
 using System.Collections.ObjectModel;
+using System.Resources;
 
 namespace LibVLCSharp.MAUI;
 
